@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alvoochi
-- 👀 I’m interested in Python and Machine Learning 
-- 🌱 I’m currently learning about Transformers
+
+
 
 
 <!---
